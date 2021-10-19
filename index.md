@@ -100,6 +100,12 @@ While OpenBSD has a reputation for being lightweight, secure, and stable, it
 does usually perform slower than FreeBSD or NetBSD in network and system
 performance benchmarks.
 
+### [HardenedBSD](https://hardenedbsd.org/)
+
+Founded in 2014 by Oliver Pinter and Shawn Webb, HardenedBSD is a security-enhanced fork of FreeBSD.
+
+TODO
+
 #### About
 
 This site aims to be a neutral resource.
